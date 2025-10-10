@@ -26,8 +26,8 @@ Alle Projekte sind eigenständig entwickelt, dokumentiert und reproduzierbar (Py
 ## 3. Instacart Reorder Prediction – Large-Scale Classification & ETL
 **Ziel:** Nachbestellwahrscheinlichkeit als Proxy für Kundensegmentierung.  
 **Ansatz:** Verarbeitung von > 3 Mio. Transaktionen, Feature Engineering, Training und Kalibrierung eines Klassifikationsmodells.  
-**Ergebnis:** AUC = **0.84**, gute Kalibrierung (Brier Score ↓). Übertragbar auf P&C-Kundendatenpools.  
-**Technologien:** Python (pandas, scikit-learn), SQL, Power BI.  
+**Ergebnis:** AUC = **0.84**, gute Kalibrierung. Übertragbar auf P&C-Kundendatenpools.  
+**Technologien:** Python (pandas, scikit-learn), SQL.  
 🔗 [GitHub-Link](https://github.com/FisherSteve/instacart-reorder-prediction)
 
 ---
