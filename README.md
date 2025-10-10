@@ -10,7 +10,7 @@ Alle Projekte sind eigenständig entwickelt, dokumentiert und reproduzierbar (Py
 **Ansatz:** Vergleich GLM vs. GAM mit Splines, Kreuzvalidierung und Exposure-Offset.  
 **Ergebnis:** GAM reduzierte Poisson-Deviance um **6 %**, Gini-Koeffizient **+3 pp** ggü. GLM-Baseline.  
 **Technologien:** Python (pandas, statsmodels, pyGAM), Git.  
-🔗 [GitHub-Link](https://github.com/FisherSteve/freMTPL2sev-pricing)
+🔗 [GitHub-Link](https://github.com/FisherSteve/freMTPL2-pricing)
 
 ---
 
