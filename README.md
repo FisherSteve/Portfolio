@@ -52,4 +52,4 @@ Python (pandas, statsmodels, pyGAM, scikit-learn) | SQL | Power BI | Git | Docke
 **Aktuelles Ziel:** Einstieg als **Junior Pricing Actuary (P&C)** oder **Data Scientist im Versicherungsumfeld**, mit geplanter **DAV-Ausbildung**.  
 
 **Kontakt:**  
-[LinkedIn-Profil](https://www.linkedin.com//in/fischer-stephan/) | [GitHub-Hauptseite](https://github.com/FisherSteve) | 📧 [steph-fischer@gmx.de]
+[LinkedIn-Profil](https://www.linkedin.com/in/fischer-stephan/) | [GitHub-Hauptseite](https://github.com/FisherSteve) | 📧 [steph-fischer@gmx.de]
