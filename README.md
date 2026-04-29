@@ -51,7 +51,6 @@ Python (pandas, statsmodels, pyGAM, scikit-learn) | SQL | Power BI | Git | Docke
 
 ---
 
-**Aktuelles Ziel:** Einstieg als **Junior Pricing Actuary (P&C)** oder **Data Scientist im Versicherungsumfeld**, mit geplanter **DAV-Ausbildung**.  
 
 **Kontakt:**  
 [LinkedIn-Profil](https://www.linkedin.com/in/fischer-stephan/) | [GitHub-Hauptseite](https://github.com/FisherSteve) | 📧 [steph-fischer@gmx.de]
@@ -108,8 +107,6 @@ GLM/GAM pricing (Poisson/Tweedie) | Exposure offset | Cross-validation | Calibra
 Python (pandas, statsmodels, pyGAM, scikit-learn) | SQL | Power BI | Git | Docker | LaTeX
 
 ---
-
-**Current goal:** Entry-level **Junior Pricing Actuary (P&C)** or **Data Scientist in insurance**, with planned **DAV qualification**.  
 
 **Contact:**  
 [LinkedIn profile](https://www.linkedin.com/in/fischer-stephan/) | [GitHub main page](https://github.com/FisherSteve) | 📧 [steph-fischer@gmx.de]
